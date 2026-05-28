@@ -1,0 +1,14 @@
+# Jenkins artifacts
+*.log
+workspace/
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
