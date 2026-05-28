@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐳 Jenkins + Docker Web Server Pipeline
 
 > Full CI/CD pipeline: GitHub → Jenkins → Docker → Running Web Server
@@ -208,3 +209,7 @@ docker logs jenkins-server
 ## 📄 License
 
 MIT — free to use and modify.
+=======
+# webserver-docker
+Now let me create all the project files — the complete Jenkins CI/CD pipeline project with Docker for a web server.
+>>>>>>> fd0c1f2274f154e9fe7dc3c9925dc0d3ee525259
