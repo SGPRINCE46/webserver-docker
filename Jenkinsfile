@@ -14,7 +14,7 @@ pipeline {
         CONTAINER_NAME  = "webserver-container"
         HOST_PORT       = "8080"
         CONTAINER_PORT  = "80"
-        DOCKER_HUB_USER = "your-dockerhub-username"  // ← change this
+        DOCKER_HUB_USER = "sgprince"  // ← change this
         REGISTRY        = "${DOCKER_HUB_USER}/${IMAGE_NAME}"
     }
 
